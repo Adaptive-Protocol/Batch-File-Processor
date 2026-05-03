@@ -1,2 +1,2 @@
-# C211-Project
-Final project repository for C211
+# Batch File Utility Sorter
+Utility sorter with functional GUI
