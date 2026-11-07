@@ -1,4 +1,4 @@
-# Batch File Processor
+# Netbeans IDE Batch File Processor
 
 **Batch File Processor** is a bulk file management and editing application designed to streamline the sorting, renaming, and modification of large groups of similar files. Whether you're organizing photo collections, managing video assets, handling indexed datasets, or processing modification files, this tool eliminates the tedium of repetitive file operations through an intuitive interface and powerful batch automation capabilities.
 
