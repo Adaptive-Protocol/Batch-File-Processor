@@ -94,10 +94,3 @@ Batch-File-Processor/
 ├── README.md                 This document
 └── media/                    Folder for additional project files
 ```
-
-## Author and Credits
-
-* **Author**: Joseph Rush
-* **Project**: C211 (Programming and Problem Solving) coursework
-
-This project was implemented entirely from course-provided materials. No outside libraries beyond the standard Java SE and Swing API are used, and no third-party graphics, sound files, or code references were incorporated. If any external sources are referenced in future revisions, they will be cited here along with the specific changes that resulted from each reference.
